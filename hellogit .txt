@@ -27,5 +27,5 @@ To initiate git:
 After posting changes:
                  >Right click And Git Bash
                  >git add .
-                 >git commit -m
+                 >git commit -m "add comment here"
                  >git push
