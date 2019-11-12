@@ -1,4 +1,4 @@
-                                                                       GIT INTRO {created by Linus Torvald - creator of Linux OS}
+                                       GIT INTRO {created by Linus Torvald - creator of Linux OS}
 
 Version control sys - stores all version of codes, files and offers reference points
 
@@ -7,6 +7,8 @@ Other alternatives - Subversion, Mercurial, Perforce...
 Github - Online Hosting Platform for code sharing 
 
 Github alternatives - Bitbucket, Gitlab...
+ 
+ "Google atlassian git-cheatsheet"
 
 To initiate git:
                  >Right click on the folder and press Git Bash
@@ -22,4 +24,8 @@ To initiate git:
                  >Paste the Line of code under push file into git and enter
                  >Refresh webpage
                   
-Google atlassian git-cheatsheet
+After posting changes:
+                 >Right click And Git Bash
+                 >git add .
+                 >git commit -m
+                 >git push
