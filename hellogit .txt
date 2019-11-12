@@ -1,0 +1,9 @@
+                                                                      GIT INTRO {created by Linus Torvald - creator of Linux OS}
+
+Version control sys - stores all version of codes, files and offers reference points
+
+Other alternatives - Subversion, Mercurial, Perforce...
+
+Github - Online Hosting Platform for code sharing 
+
+Github alternatives - Bitbucket, Gitlab...
