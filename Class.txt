@@ -1,0 +1,26 @@
+                                                                    PYTHON_BOOTCAMP
+
+git-version control,file sharing,file compositing                 {repository-folder}
+   :github,gitbucket,gitlap
+
+html & css- creates web UI [runs on web]
+
+bootstrap framework - makes UI responsive in different devices
+
+python programming basics- classes & objects (line by line):object oriented programming
+
+strings - undefined words
+
+SQL - {structured query language}=interact queries, schema,joins, data mining  [only runs on server]
+
+python framework[MVC  'model view controller'] -  creates an online sys to connect {py > sql > postsql}, 
+                                                                                          web app  eg: sales mgmnt
+
+data science - flask{microframework}, ginger = cleaning null values,character encoding, visualization,geting insights,
+                                                                                   time series data{data over a period}-line plot
+                                                                                            categorical- <5=pie chart, >5=barchart
+                                                                                            histogram- frequency distribution, data normalitity eg: geo population
+
+intro to machine learning - predictive modeling{linear regression eg: higher value marketing = increase in sales}, recommender system...
+
+intro to APIs{application interfaces},
